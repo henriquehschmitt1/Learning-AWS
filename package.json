@@ -1,0 +1,27 @@
+{
+  "name": "learning-aws",
+  "version": "1.0.0",
+  "description": "In this repo I'll be studying how to use AWS services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquehschmitt1/Learning-AWS.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs"
+  ],
+  "author": "Henrique Hermes Schmitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquehschmitt1/Learning-AWS/issues"
+  },
+  "homepage": "https://github.com/henriquehschmitt1/Learning-AWS#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "prettier": "^2.5.1"
+  }
+}
